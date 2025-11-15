@@ -1,6 +1,6 @@
 # Cat Shelter
 
-The Cat Shelter website is a simple website with links to different parts of the home page. The purpose of the website is to raise awareness of the cat shelter, to raise funds for the cat shelter and to make it easy for people to adopt cats from the cat shelter.
+The Cat Shelter website is a website for a cat rescue shelter. The purpose of the website is to raise awareness of the cat shelter, to raise funds for the cat shelter and to make it easy for people to adopt cats from the cat shelter.
 
 Users of this website will be able to read about the cat shelter, learn about the cats available for adoption and donate money.
 
