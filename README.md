@@ -7,7 +7,7 @@ Users of this website will be able to read about the cat shelter, learn about th
 ![Prototype](assets/images/1.webp)
 
 ## Table of contents
-- [Deployment](#deployment)
+- [Deployed project](#deployed-project)
 - [MVP](#mvp)
 - [User research](#user-research)
 - [User stories](#user-stories)
@@ -20,7 +20,7 @@ Users of this website will be able to read about the cat shelter, learn about th
 - [Testing](#testing)
 - [Credits](#credits)
 
-## Deployment
+## Deployed project
 
 ### Here is the link to the deployed project
 
